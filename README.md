@@ -20,12 +20,10 @@ This is **Sunshine Jade B. Batronel**'s project portfolio, which showcases her a
 This project portfolio is made up of:
 
  - **HTML** for structuring the web
+**`index.html`**
 
  - **CSS** for cascading styles
-
- - **`index.html`**
-
- - **`styles.css`**
+  **`styles.css`**
  
 
 
