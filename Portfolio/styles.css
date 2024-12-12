@@ -1,0 +1,145 @@
+body {
+    padding: 10px;
+    background: linear-gradient(to bottom, #d8e0e8, #f2f3f4 );
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #223141;
+}
+
+/* Navigation Bar Styles */
+header {
+    background: linear-gradient(90deg, #408542, #47d54c);
+    padding: 1rem 2rem;
+    color: white;
+    text-align: center;
+}
+
+ header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+}
+
+.nav-lists ul {
+    list-style: none;
+    padding: 0;
+    margin: 1rem 0;
+    gap: 1px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: start;
+    gap: 1rem;
+}
+
+nav ul li {
+  display: inline-block;
+
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+nav ul li a:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* Section Styles */
+section {
+    padding: 2rem;
+    display: none;
+    animation: fadeIn 0.5s ease-in-out;
+}
+
+#home.active {
+    display: block;
+}
+
+.section#achievements h2 {
+    display:block;
+
+}
+
+.achievement-lists ul {
+  display: block;
+  list-style-type: disc;
+  margin-top: 1.5em;
+  margin-bottom: 1 em;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 40px;
+}
+  
+.skills-list ul {
+    display: block;
+    list-style-type: disc;
+    margin-top: 1.5em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+  }
+
+#projects li {
+    list-style-type: none;
+    
+}
+
+.outputs ul {
+   display: flex; 
+   gap: 2px;
+   flex-wrap: wrap;
+   width: 500px;
+   height: 500px;
+   overflow-y: auto;
+   overflow-x: hidden;
+   transform: rotate(360deg);
+   transform-origin: left center;
+   font-weight: bold;
+}
+
+.outputs img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 1rem 0;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+    
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    margin: 1rem 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+footer {
+    background-color: #165518;
+    color: white;
+    text-align: bottom, center;
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
