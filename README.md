@@ -1,2 +1,6 @@
-# ITC-Student-Portfolio
-An Interactive Student Portfolio prerequisite in ITC 
+# (ITC) Interactive Student Portfolio Project
+An Interactive Student Portfolio Project (Prerequisite in ITC).
+
+
+
+
