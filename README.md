@@ -6,6 +6,7 @@ An Interactive Student Portfolio Project (Prerequisite in ITC).
 - [Portfolio Overview](#portfolio-overview)
 - [Portfolio Guide](#portfolio-guide)
 - [Sustainable Development Goal (SDGs)](#sustainable-development-goals-sdgs)
+- [ITC Student Porfolio](#itc-student-portfolio)
 
 
 
@@ -15,11 +16,12 @@ This is **Sunshine Jade B. Batronel**'s project portfolio, which showcases her a
 
 
 ## Portfolio Overview
-_This project portfolio is made up of:_
 
-**HTML** for structuring the web
+This project portfolio is made up of:
 
-**CSS** for cascading styles
+ - **HTML** for structuring the web
+
+ - **CSS** for cascading styles
 
 
 _This project aims to showcase a professional and responsive website portfolio._
@@ -47,6 +49,9 @@ The Navigation Headers Section:
 This portfolio project emphasizes SDG 08: Decent Work and Economic Growth. For college students, SDG 08 plays a vital role in their career and skills development, social responsibility, and economic awareness, and shaping contributions to a sustainable and ethical economy. Additionally, as a college student in the IT field, it prepares us to contribute with sustainable and innovative creations for economic and social change.
 
 
+## ITC Student Portfolio
+https://github.com/itssunshinejade/ITC-Student-Portfolio
 
+>[Table of Contents](#table-of-contents)
 
 
