@@ -23,6 +23,11 @@ This project portfolio is made up of:
 
  - **CSS** for cascading styles
 
+ - **`index.html`**
+
+ - **`styles.css`**
+ 
+
 
 _This project aims to showcase a professional and responsive website portfolio._
 
