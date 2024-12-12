@@ -41,7 +41,7 @@ The Navigation Headers Section:
  - **Achievements:**  This section showcases her achievements, recognition, acknowledgment, and milestones.
  - **Skills:**    This section highlights some of her Technical Skills.
  - **Projects:**  This section highlights her joined projects and experiences attached with a hyperlinked image.
- - **SDG focus**  This section briefly discusses projects and initiatives that use technology to open opportunities for young people. It highlights the development of an inclusive platform and honing skills needed for ethical and sustainable employment.
+ - **SDG focus:**  This section briefly discusses projects and initiatives that use technology to open opportunities for young people. It highlights the development of an inclusive platform and honing skills needed for ethical and sustainable employment.
 - **Contact Information:** This section contains information on how to reach her via email, phone, and social media.
 
  _The active section is displayed, while the other sections will remain hidden._
