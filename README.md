@@ -54,6 +54,8 @@ This portfolio project emphasizes SDG 08: Decent Work and Economic Growth. For c
 
 ## ITC Student Portfolio
 https://github.com/itssunshinejade/ITC-Student-Portfolio.git
+
+https://itssunshinejade.github.io/ITC-Student-Portfolio/
 (Portfolio)
 
 >[Table of Contents](#table-of-contents)
